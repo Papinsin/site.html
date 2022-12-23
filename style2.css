@@ -1,0 +1,265 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Roboto:wght@700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: 0;
+    outline: none;
+}
+.section-1 {
+height: 50vh;
+width: 100%;
+margin: 0 auto;
+align-items: center;
+display: flex;
+background-color: gainsboro;
+}
+.h2-1,.h2-2,.h2-3 {
+    height: 39px;
+width: 174px;
+font-family: 'DM Serif Display';
+font-size: 25px;
+font-weight: 400;
+text-align: center;
+position: relative;
+left: 25%;
+}
+.p-1,.p-2,.p-3 {
+font-family: 'Jost', sans-serif;
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+text-align: center;
+width: 330px;
+height: 99px;
+color: #4D5053;
+}
+.child3 {
+    display: flex;
+}
+.img1-1 {
+    position: absolute  ;
+    left: 55%;
+    top: 93%;
+    width: 23px;
+    height: 15px;
+}
+.img1-2 {
+    position: absolute  ;
+    left: 55%;
+    top: 92%;
+    width: 23px;
+    height: 15px;
+}
+.img1-3 {
+    position: absolute  ;
+    left: 55%;
+    top: 92%;
+    width: 23px;
+    height: 15px;
+}
+.p2 {
+    position: relative;
+    left: 30%;
+    font-family: 'Jost', sans-serif;
+    color: #4D5053;
+    transition: 300ms ease;
+}
+.p2-hover:hover {
+    opacity: 0.5;
+    transform: scale(1.2);
+
+}
+.p2-hover {
+    transition: 2s ease;
+}
+.img:hover {
+    transform: scale(1.2);
+    background-color: rgb(210, 210, 210);
+    border-radius: 50%;
+}
+.p2-1 {
+    margin-top: 88px;
+}
+.p2-2 {
+    margin-top: 40px;
+}
+.p2-3 {
+    margin-top: 88px;
+}
+.img {
+    margin: 0px 10px;
+}
+.child-1 {
+    position: absolute;
+    left: 10%;
+}
+.child-2 {
+    position: absolute;
+    left: 43%;
+}
+.child-3 {
+    position: absolute;
+    left: 80%;
+}
+.hover-img:hover {
+    transform: scale(1.2);
+}
+.hover-img {
+    transition: 2s ease;
+}
+
+
+.section-8 {
+    width: 80%;
+    height: 800px;
+    background-color: #292F36;
+    border-radius: 100px;
+    margin: auto;
+}
+.s8-p1 {
+    font-family: DM Serif Display;
+font-size: 80px;
+font-weight: 400;
+line-height: 75px;
+letter-spacing: 0.2199999988079071px;
+text-align: center;
+color: white;
+position: relative;
+top: 20%;
+}
+.s8-p2 {
+    font-family: 'Jost' , sans-serif;
+font-size: 32px;
+font-weight: 300;
+line-height: 33px;
+letter-spacing: 0.2199999988079071px;
+text-align: center;
+color: white;
+position: relative;
+top: 25%;
+}
+.connect-btn {
+    background: #CDA274;
+    border: none;
+    height: 101px;
+    width: 271px;
+    border-radius: 18px;
+    align-items: center;
+    position: relative;
+    left: 43%;
+    margin-top: 300px;
+    display: block;
+    align-items: center ;
+    justify-content: space-between;
+}
+.con-btn-span {
+font-family: 'Jost' sans-serif;
+font-size: 21px;
+font-weight: 300;
+text-align: center;
+color: whitesmoke;
+display: inline-block;
+}
+
+
+
+.container {
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section-4 {
+    display: flex;
+    width: 100%;
+    height: 20vh;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    border: 10px solid black;
+}
+
+
+.section-6 {
+    background: #F4F0EC;
+    width: 100%;
+    height: 50vh;
+}
+.ex {
+    position: relative;
+}
+.con2 {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.l1,.l2,.l3 {
+    width: 3px;
+    height: 225px;
+    background-color: #CDA274;
+}
+.s6-p1,.s6-p2,.s6-p3,.s6-p4 {
+font-family: 'Jost', sans-serif;
+font-weight: 400;
+font-size: 22px;
+text-align: center;
+letter-spacing: 0.22px;
+color: #4D5053;
+}
+.foot-1,.foot-2,.foot-3,.foot-4 {
+    flex-direction: column;
+}
+.footer {
+    display: flex;
+    width: 100%;
+    height: 50vh;
+    border: 2px solid black;
+    justify-content: center;
+    margin: 0 auto;
+}
+.f-img,.f-p,.img-f {
+    margin: 20px 0px;
+}
+.img-f {
+    margin: 0px 10px;
+}
+.f-p {
+    font-family: 'Jost', sans-serif;
+    line-height: 33px;
+    font-size: 22px;
+}
+.con-3 {
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+    align-items: ceter;
+    padding: 20px 20px;
+}
+.foot-p,.foot-p1 {
+    margin: 30px 10px;
+}
+.foot-p {
+font-family: 'Jost', sans-serif;    
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+}
+.foot-p1 {
+    font-family: 'DM Serif Display';
+    font-size: 25px;
+}
+.family {
+    line-height: 33px;
+}

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="conteiner2">
+            <div class="header1">
+                
+                    <div class="logo"></div>
+                    <nav>
+                        <a href="#" class="header_links">Home</a>
+                        <a href="#" class="header_links">About Us</a>
+                        <a href="#" class="header_links">Services</a>
+                        <a href="#" class="header_links">Pages</a>
+                        <a href="#" class="header_links">Contact Us</a>
+                        
+                    </nav>
+                
+            </div>
+            <div class="header2 background_img">
+                <div class="h2_main_text">Let's Create Your Dream Interior</div>
+                <div class="second_text info_text">The world needs innovators and problem solvers who turn <br>challenges into greater opportunities.</div>
+                <button class="button1">Get Start <img src="img/8666606_arrow_right_icon (1).svg" alt=""></button> 
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="conteiner">
+                <section></section>
+                <section class="call_selection flex">
+                    <div class="left flex">
+                        <div class="section_main_text">
+                            We Tackle The Most Challenging Designs
+                        </div>
+                        <div class="section__text info_text">
+                            The world needs innovators and problem solvers who turn challenges into greater opportunities. We havean insatiable curiosity about transformative trends challenging the status.
+                        </div>
+                        <div class="call flex">
+                            <div class="call_logo background_img"></div>
+                            <div class="call_text">012345678 <br>Call Us Anytime</div>
+                        </div>
+                        <button class="button2 ">Get Free Estimate <img src="img/8666606_arrow_right_icon (1).svg" alt=""></button>
+                    </div>
+                    <div class="right">
+                        <div class="right_img background_img"></div>
+                    </div>
+                    
+                </section>
+                <section class="section_coments">
+                    <div class="what_people_think ">
+                    <div class="what_people_think_text"> What the People Thinks About Interno</div>
+                        <div class="cards flex">
+                            <div class="card">
+                                <div class="conteiner_card ">
+                                    <div class="people flex1">
+                                        <img src="img/IMAGE (4).png" alt="">
+                                        <div class="name"> <span>Lisa Clairton </span> <br> New York, USA</div>
+                                        
+                                    </div>
+                                    <div class="people__coment">
+                                        We selected Interno interior because of rigorous design background & education.
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="card">
+                                <div class="conteiner_card">
+                                    <div class="people flex1">
+                                        <img src="img/IMAGE (5).png" alt="">
+                                        <div class="name"><span>David Knight </span> <br> Sydney, Australia</div>
+                                        
+                                    </div>
+                                    <div class="people__coment">
+                                        The team exceeded our expectations and emerged as leaders of our project’s.
+                                    </div>
+
+                                </div>
+                                
+                            </div>
+                            <div class="card">
+                                <div class="conteiner_card">
+                                    <div class="people flex1">
+                                        <img src="img/IMAGE (6).png" alt="">
+                                        <div class="name"><span>Paris, France</span> <br> Lisa Clairton</div>
+                                        
+                                    </div>
+                                    <div class="people__coment">
+                                        They balanced the architectural vision and the project realities beautifully.
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </section>
+                <section></section>
+                <section class="section_card">
+                    <div class="s_m_t section_main_text">
+                        Recent Projects
+                    </div>
+                    <div class="section_card_text info_text">
+                        With tools to make every part of your process more human and a support team excited to help you, getting started with us never been easier.
+                    </div>
+                    <div class="sec_cards">
+                        <div class="sec_card">
+                            <div class="card_img"></div>
+                            <div class="sec_card_text">
+                                <div class="sec_card"><span>Winery Dry Creek Building</span> Art Modern </div>
+                                <div class="mini_button"><img src="img/8666777_chevron_right_arrow_icon.svg" alt=""></div>
+                            </div>
+                        </div>
+                        <div class="sec_card">
+                            <div class="card_img"></div>
+                            <div class="sec_card_text">
+                                <div class="sec_card"><span>Creative Workplace Design</span>Minimalist</div>
+                                <div class="mini_button"><img src="img/8666777_chevron_right_arrow_icon.svg" alt=""></div>
+                            </div>
+                        </div>
+                        <div class="sec_card">
+                            <div class="card_img"></div>
+                            <div class="sec_card_text">
+                                <div class="sec_card"><span>Bedroom Interior Pot Work</span>Modern</div>
+                                <div class="mini_button"><img src="img/8666777_chevron_right_arrow_icon.svg" alt=""></div>
+                            </div>
+                        </div>
+                        <div class="sec_card">
+                            <div class="card_img"></div>
+                            <div class="sec_card_text">
+                                <div class="sec_card"><span>Light Ambience Sepia Design</span>Musor</div>
+                                <div class="mini_button"><img src="img/8666777_chevron_right_arrow_icon.svg" alt=""></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section></section>
+                <section class="main_grid_cards">
+                    <div class="section_main_text"></div>
+                    <div class="info_text"></div>
+                    <div class="grid_cards">
+                        <div class="grid_card">
+                            <div class="grid_card_conteiner">
+                                <div class="g_c_img">
+                                    <div class="g_c_img_button">
+                                        
+                                    </div>
+                                </div>
+                                <div class="g_c_text">
+                                    <div class="">Residential Interior Designer In New York, USA</div>
+                                    <div class="">November 23, 2021</div>
+                                </div>
+                                <img src="img/8666777_chevron_right_arrow_icon.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="grid_card">
+                            <div class="grid_card_conteiner">
+                                <div class="g_c_img">
+                                    <div class="g_c_img_button">
+                                        
+                                    </div>
+                                </div>
+                                <div class="g_c_text">
+                                    <div class="">How To Choose The Best Wall Art & Decor House?</div>
+                                    <div class="">November 23, 2021</div>
+                                </div>
+                                <img src="img/8666777_chevron_right_arrow_icon.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="grid_card">
+                            <div class="grid_card_conteiner">
+                                <div class="g_c_img">
+                                    <div class="g_c_img_button">
+                                        
+                                    </div>
+                                </div>
+                                <div class="g_c_text">
+                                    <div class="">Tips To Increase The Interior Value Of Your House</div>
+                                    <div class="">November 23, 2021</div>
+                                </div>
+                                <img src="img/8666777_chevron_right_arrow_icon.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="grid_card">
+                            <div class="grid_card_conteiner">
+                                <div class="g_c_img">
+                                    <div class="g_c_img_button">
+                                        
+                                    </div>
+                                </div>
+                                <div class="g_c_text">
+                                    <div class="">Tips To Increase The Interior Value Of Your House</div>
+                                    <div class="">November 23, 2021</div>
+                                </div>
+                                <img src="img/8666777_chevron_right_arrow_icon.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="grid_card">
+                            <div class="grid_card_conteiner">
+                                <div class="g_c_img">
+                                    <div class="g_c_img_button">
+                                        
+                                    </div>
+                                </div>
+                                <div class="g_c_text">
+                                    <div class="">Best Solution For Any Office & Business Interior</div>
+                                    <div class="">November 23, 2021</div>
+                                </div>
+                                <img src="img/8666777_chevron_right_arrow_icon.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="grid_card">
+                            <div class="grid_card_conteiner">
+                                <div class="g_c_img">
+                                    <div class="g_c_img_button">
+                                        
+                                    </div>
+                                </div>
+                                <div class="g_c_text">
+                                    <div class="">Attain The Best Finish For The Kitchen Cabinets</div>
+                                    <div class="">November 23, 2021</div>
+                                </div>
+                                <img src="img/8666777_chevron_right_arrow_icon.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section></section>
+                <section></section>
+        </div>
+
+    </main>
+    <footer>
+
+    </footer>
+    <script src="js/style.js"></script>
+</body>
+</html>
